@@ -14,9 +14,6 @@ Izmar#4265
 ## UnstoppableDomain registered account email address
 marcial.arturo@yahoo.com
 
-## Video Demo Walkthrough
-https://www.youtube.com/watch?v=KqwPKKXQaDs
-
 ## Live Demo
 https://nftpetgram.netlify.app/
 
